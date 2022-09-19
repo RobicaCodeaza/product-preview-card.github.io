@@ -107,7 +107,7 @@ h1 {
   background-color: #1e4034;
 }
 
-.add-to-cart-btn p {
+.add-to-cart-btn .add-to-cart {
   color: #fff;
   font-size: 1.6rem;
   font-weight: 700;
