@@ -22,10 +22,7 @@
   .imgBx {
     height: 24rem;
   }
-  .imgBx .img {
-    background: url(/images/image-product-mobile.jpg);
-    height: 100%;
-  }
+
   .contentBx {
     height: 46rem;
   }
